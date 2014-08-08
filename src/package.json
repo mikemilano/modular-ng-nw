@@ -1,0 +1,15 @@
+{
+  "name": "Kalabox",
+  "version": "2.0.x",
+  "main": "index.html",
+  "private": true,
+  "window": {
+    "title": "Kalabox",
+    "toolbar": false,
+    "frame": true,
+    "width": 700,
+    "height": 520,
+    "position": "center",
+    "resizeable": "false"
+  }
+}
